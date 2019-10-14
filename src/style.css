@@ -1,0 +1,14 @@
+body {
+  font-size: 20px;
+}
+
+.task1 .num:before {
+  opacity: 0;
+}
+.task1 .num {
+  background: white;
+  font-size: 1em;
+  margin: 5px;
+  padding: 0 10px 0 10px;
+}
+
