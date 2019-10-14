@@ -10,5 +10,6 @@
 
 ## Oppgaver
 
-### Oppgave 1
-
+1. Hent og vis en bruker fra `https://randomuser.me/api/`
+2. Hent en ny bruker hvert 5. sekund.
+3. Legg til knapp som stopper og starter hentingen av bruker hver 5. sekund.
